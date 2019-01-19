@@ -11,7 +11,7 @@ For Ubuntu 14.04 LTS users, see this link first:
 
 and then proceed with:
 
-    git clone https://github.com/cryptonomex/graphene.git
+    git clone https://github.com/Meta-Exchange/MetaEx-core.git
     cd graphene
     git submodule update --init --recursive
     cmake -DCMAKE_BUILD_TYPE=Debug .
